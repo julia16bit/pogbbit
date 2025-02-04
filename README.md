@@ -51,6 +51,6 @@ developer.code(greetingMessage);
 ### 🙇🏻‍♀️ ᴘʀᴏꜰɪʟᴇ ꜱᴛᴀᴛꜱ
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pogbbit&count_private=true&token=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&show_icons=true&theme=one_dark_pro&count_private=true&card_width=400&hide_border=true" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogbbit&count_private=true&token=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&layout=compact&theme=one_dark_pro&card_width=400&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogbbit&count_private=true&layout=compact&theme=one_dark_pro&card_width=400&hide_border=true" width="400px">
 </p>
 
