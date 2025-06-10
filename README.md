@@ -3,13 +3,13 @@
 ```js
 const developer = {
   name: "Júlia Valentine Machado",
-  role: "Junior Front-End Developer",
+  role: "Software Engineer",
   education: [
     "Systems Development",
     "Computer Science"
   ],
   interests: [
-    "Front-End Development", 
+    "Back-End Development", 
     "Full-Stack Development", 
     "UI/UX Design"
   ],
